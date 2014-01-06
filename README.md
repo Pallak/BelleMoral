@@ -14,13 +14,16 @@ Belle Moral
 
 >Your assignment is to create a single program to go with your Final Short Scene Presentations.  
 
-The assignment allowed the use of any medium for the program notes. I chose to create a quick single controller iOS app. The app displays the cluttered desk of the protagnist, Pearl MacIsaac. 
+The assignment allowed the use of any medium for the program notes. I chose to create a quick single controller iOS app. The app displays the cluttered desk of the protagnist, Pearl MacIsaac. The program is supposed to be a quick read to acquaint the reader with the play and the issues/people/events potrayed in it, so that the reader can look them up in detail later if interested.
 
 - The pictures of the cast lead to a view introducing the cast.
 - The picture of the author leads an introduction to the author.
 - The paper parchment alternating between the text "Pearl MacIsaac" and "Percival MacIsaac" represents Pearl's struggle to be recognized as a scientist of equal caliber by her male peers. Pressing it leads to a view which discusses the case of women in science in the 19th century.
-- The moving shells add some motion to the desk and asks to be pressed. Pressing them animates a dog paw along them, signifying the mystery of the "dog ear" in the story.
+- The moving shells add some motion to the desk and ask to be pressed. Pressing them animates a dog paw along them, signifying the mystery of the "dog ear" in the story.
 - The encyclopedia contains a list of text and image references used to put together the app data.
+
+Main view: 
+![alt text](https://github.com/PallakG/BelleMoral/blob/master/AppScreenshot.png?raw=true "App screenshot")
 
 ###Disclaimer:
 This is NOT a commercial project but a school project. All the images used in this project do not belong to me but have been selected through internet search. 
